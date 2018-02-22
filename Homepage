@@ -5,7 +5,12 @@
       <title>French Flies Find Your Next Destination</title>
     </head>
     <body>
-      <h1>French Flies</h1>
-      <p>Where could you go?</p>
+      <div>
+        <h1>French Flies</h1>
+        <p>Where could you go?<br />Find the cheapest flight that fits your calendar!</p>
+      </div>
     </body>
   </html>
+
+
+<!-- Comments -->
