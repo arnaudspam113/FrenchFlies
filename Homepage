@@ -1,33 +1,46 @@
 <!DOCTYPE html>
 
   <html>
+  
+  
     <head>
       <title>French Flies Find Your Next Destination</title>
     </head>
+  
+  
     <body>
+  
       <div>
         <h1>French Flies</h1>
         <p>Where could you go?<br />Find the <em>cheapest flight italic</em> that fits your calendar!</p>
       </div>
+      
     <nav>
+    
       <ol>
         <li><a href="#findyourflight">Find your flight</a></li>
         <li><a href="#oneway">One-way</a></li>
         <li><a href="#whoami">Who am I</a></li>
       </ol>
+    
     </nav>
+    
       <div id="findyourflight">
+        <a href="https://developer.mozilla.org/">Link</a>
         <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-three.jpeg" />
         <video src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" height="240" width="320" controls>Video not supported</video>
+      
         <h4> List</h4>
+        
           <ol>
             <li>Punto 1</li>
             <li>Punto 2</li>
           </ol>
-        </h4>  
-        <a href="https://developer.mozilla.org/">Link</a>
+         
       </div>
+      
     </body>
+
   </html>
 
 
