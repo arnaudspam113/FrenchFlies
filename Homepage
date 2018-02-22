@@ -9,6 +9,19 @@
         <h1>French Flies</h1>
         <p>Where could you go?<br />Find the cheapest flight that fits your calendar!</p>
       </div>
+
+      <div>
+        <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-three.jpeg" />
+
+        <h4> List
+          <li> Punto 1</li>
+          <li> Punto 2</li>
+        </h4>
+        
+        <a href="https://developer.mozilla.org/">MDN</a>
+            
+</div>
+
     </body>
   </html>
 
