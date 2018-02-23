@@ -4,7 +4,7 @@
   
   
     <head>
-      <title>French Flies Find Your Next Destination</title>
+      <title>French Flies Find - Your Next Destination</title>
     </head>
   
   
@@ -12,7 +12,7 @@
   
       <div>
         <h1>French Flies</h1>
-        <p>Where could you go?<br />Find the <em>cheapest flight italic</em> that fits your calendar!</p>
+        <p>Where could you go?<br />Find the <em>cheapest flight italic</em> that fits your calendar/schedule/date!</p>
       </div>
       
     <nav>
@@ -24,6 +24,13 @@
       </ol>
     
     </nav>
+    
+    
+      <div>
+        <h1>Search</h1>
+        <p>Departure airport - Leavin date - Return - Search</p>
+      </div>
+    
     
       <div id="findyourflight">
         <a href="https://developer.mozilla.org/">Link</a>
